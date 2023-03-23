@@ -1,5 +1,6 @@
 ---
 share: true
+tag: public
 ---
 # Slovenian real estate
 
