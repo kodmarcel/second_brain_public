@@ -4,11 +4,11 @@ tag: public
 ---  
 # Slovenian real estate  
   
-https://eprostor.gov.si/EV_JAVNI/#/iskalnik  
+[vrednost nepremičnin](https://eprostor.gov.si/EV_JAVNI/#/iskalnik)  
   
   
 [prostorski načrti](https://www.geoprostor.net/)  
-[vrednost nepremičnin](https://ipi.eprostor.gov.si/jv/)  
+[javni vpogled z vso infrastrukturo](https://ipi.eprostor.gov.si/jv/)  
 [zemljška knjiga](https://evlozisce.sodisce.si/evlozisce/javni_izpisi/list.html)  
   
   
