@@ -1,0 +1,7 @@
+---
+share: true
+---
+Welcome to my second brain, well at least the public part of it.
+
+[[Finance]]
+[[DIY]]
