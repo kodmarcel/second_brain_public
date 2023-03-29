@@ -19,7 +19,7 @@ $$ M_y = Sσ_y$$
 , where σ<sub>y</sub> is the yield strength of the material.  
   
 ### Moment of inertia and Section Modulus of a  Hollow Rectangle Square  
-![](./resources/attachments/hollow_rectangle.png)  
+![](./resources/physics/images/hollow_rectangle.png)  
   
 $$ I_x = {BH^3 \over 12} - {bh^3 \over 12} $$  
 $$ W_x = {BH^2 \over 6} - {bh^3 \over 6H} $$  
@@ -27,5 +27,5 @@ $$ W_x = {BH^2 \over 6} - {bh^3 \over 6H} $$
   
   
 ## Load calculations  
-![](./resources/attachments/beam_formulas.png)  
+![](./resources/physics/images/beam_formulas.png)  
   
