@@ -4,8 +4,6 @@ tag: public
 ---  
 # Use different ssh keys for github  
   
-[How to specify the private SSH-key to](Use-different-ssh-keys-for-github.md#%20How%20to%20specify%20the%20private%20SSH-key%20to%20)  
-  
 [mediabiz@mediabiz-sentry ~]$ cat .ssh/config  
 Host github.com-streamingscrapper  
  HostName github.com  
