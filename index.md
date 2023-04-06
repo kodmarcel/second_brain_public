@@ -11,4 +11,6 @@ Welcome to the resources part of my second brain, the only part that is made pub
 [Parenting](./Parenting.md)  
 [Fun](./Fun.md)  
 [Software](./Software.md)  
-[Guitar songs](./Guitar%20songs.md)
+[Guitar songs](./Guitar%20songs.md)  
+[Second brain](./Second%20brain.md)  
+[Interesting psychology facts](./Interesting-psychology-facts.md)
