@@ -3,6 +3,7 @@ share: true
 tag: public  
 ---  
 # Slovenian real estate  
+[Slovenia real estate ownership](./Slovenia-real-estate-ownership.md)  
   
 [vrednost nepremičnin](https://eprostor.gov.si/EV_JAVNI/#/iskalnik)  
   

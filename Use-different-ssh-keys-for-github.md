@@ -4,7 +4,8 @@ tag: public
 ---  
 # Use different ssh keys for github  
   
-[mediabiz@mediabiz-sentry ~]$ cat .ssh/config  
+If you need to use different ssh keys, because for example you use different deploy keys for each project you can set them up in the .ssh/config file like this:  
+```  
 Host github.com-streamingscrapper  
  HostName github.com  
  User git  
@@ -25,8 +26,10 @@ Host github.com-streamingspecial
  User git  
  AddKeysToAgent yes  
  IdentityFile ~/.ssh/streamingspecial_deploy_key  
+```  
   
-  
-  
-  
- [mediabiz@mediabiz-sentry ~]$ git clone git@github.com-streamingspecial:mediabiz-dev/streamingspecial.git
+Then you can access github repositories by changing the host name in url like this  
+```  
+ [mediabiz@mediabiz-sentry ~]$ git clone git@github.com-streamingspecial:mediabiz-dev/streamingspecial.git  
+ ```  
+ 
