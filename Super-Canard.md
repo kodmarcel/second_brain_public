@@ -16,7 +16,7 @@ tag: public
   
 https://www.youtube.com/watch?v=j28yB_0Ut1k  
 ## Instruction  
-- [ ] write instructions 🔽   
+- [ ] write instructions @backlog  
   
 1. Fold the short edge in half  
     ![](./resources/fun/paper_airplanes/images/super_canard_01.png)  
