@@ -1,6 +1,6 @@
 ---  
 share: true  
-tag: public  
+tags: public TODO/list  
 ---  
 ## Seven minute workout  
 supposedly scientifically backed HIT workout  
@@ -24,7 +24,8 @@ should be done with discomfort of 8 on range from 1 to 10
 ![Pasted image 20230330111209.png](./resources/health/images/Pasted%20image%2020230330111209.png)  
   
 ## Advanced seven minute workout  
-- [ ] [check](https://archive.nytimes.com/well.blogs.nytimes.com/2014/10/24/the-advanced-7-minute-workout/)  
+- [ ] check this workout [video](https://archive.nytimes.com/well.blogs.nytimes.com/2014/10/24/the-advanced-7-minute-workout/) @next #workout  
+- [ ] check this workout [video](https://www.youtube.com/watch?v=zMksE9OKvTM&embeds_euri=https%3A%2F%2Fgetpocket.com%2F&feature=emb_title) #workout  
   
 ## Exercises for during reading  
 1. Leg Raises  
