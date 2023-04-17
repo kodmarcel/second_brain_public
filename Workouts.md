@@ -32,4 +32,6 @@ should be done with discomfort of 8 on range from 1 to 10
 2. Wall Sit  
 3. Side-Lying Leg Lifts  
 4. Planks  
-5. Lunges
+5. Lunges  
+  
+[BJJ](./BJJ.md)
