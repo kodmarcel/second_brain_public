@@ -81,7 +81,7 @@ Also remember that when you run the interactive interpreter, the "name" of that 
 In this article, you'll learn to divide your code base into clean, efficient modules using Python packages. Also, you'll learn to import and use your own or third party packages in a Python program.  
   
 ## Video: Python Packages: Organize Your Code  
-![](./resources/attachments/python_import_example_structure.png)  
+![](./resources/Software/images/python_import_example_structure.png)  
   
 ## What are packages?  
   

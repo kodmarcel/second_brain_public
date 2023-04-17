@@ -2,11 +2,14 @@
 share: true  
 tag: public  
 ---  
-[Magic tricks](./Magic%20tricks.md)  
+[Magic tricks](./Magic-tricks.md)  
 [Paper airplanes](./Paper-airplanes.md)  
 [Dominos](./Dominos.md)  
-[Markus couch](./Markus%20couch.md)  
+[Markus couch](./Markus-couch.md)  
 [Jokes](./Jokes.md)  
-  
-  
+[Soap bubbles](./Soap-bubbles.md)  
+[Rubik's cube](./Rubik's-cube.md)  
+[MTG](./MTG.md)  
+[Fun](Fun.md)  
+[Gift ideas](./Gift-ideas.md)  
 You can draw with whiteboard marker on a aluminum foil then submerge it in hot water and the image will float away.

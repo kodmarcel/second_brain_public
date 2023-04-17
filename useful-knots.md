@@ -5,8 +5,13 @@ tag: public
 # useful_knots  
   
   
+[Advanced trucker's hitch](./Advanced-trucker's-hitch.md)  
+[adjustable hitch](./adjustable-hitch.md)  
+[farrmiond hitch](./farrmiond-hitch.md) - adjustable quick release  
+[Secure a handle](./Secure-a-handle.md)  
   
   
+## Links only  
 - [flying bowline](https://www.youtube.com/watch?v=263qc-0_1YQ)  
   
 - for lowering load [super munter](https://www.animatedknots.com/super-munter-hitch-knot)  
@@ -32,9 +37,8 @@ tag: public
 - [load descendor](https://www.animatedknots.com/super-munter-hitch-knot)   
 - [one handed bowline](https://www.animatedknots.com/one-handed-bowline-knot)  
 - [ladder knot](https://www.animatedknots.com/marlinspike-hitch-knot)  
-- adjustable quick release [farrmiond hitch](https://www.animatedknots.com/farrimond-friction-hitch-knot)  
 - [coiling](https://www.animatedknots.com/coil-unattached-rope-knot)   
-- [adjustanle hitch](https://www.animatedknots.com/adjustable-grip-hitch-knot)  
+  
 - [trucker's hitch](https://www.animatedknots.com/truckers-hitch-knot)  
 - [trucker's hitch quick release](https://www.animatedknots.com/truckers-hitch-knot-quick-release)  
 - [strangler](https://www.animatedknots.com/strangle-knot-using-end-method)  
