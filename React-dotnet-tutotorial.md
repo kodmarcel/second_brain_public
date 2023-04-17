@@ -12,7 +12,7 @@ Also tried to follow this one:
 but it is made for visual studio which creates most of structure for you so i went with the youtube video.  
   
   
-First i setup the vscode [vsode dotnet react setup](./vsode%20dotnet%20react%20setup.md)   
+First i setup the vscode [vsode dotnet react setup](./vsode-dotnet-react-setup.md)   
   
 then i have problems with dotnet run not finding the framework  
   
