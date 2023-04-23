@@ -4,6 +4,8 @@ tag: public
 ---  
 # Magic tricks  
   
+[Types of magic](https://www.youtube.com/shorts/DnLjHW5nI5M)  
+  
 [Notes from David Roth's Expert coin magic made easy](./Notes-from-David-Roth's-Expert-coin-magic-made-easy.md)  
   
 ## Coin tricks  

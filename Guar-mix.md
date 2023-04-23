@@ -2,23 +2,42 @@
 share: true  
 tag: public  
 ---  
-# [Recipes Guar | Soap Bubble Wiki | Fandom](https://soapbubble.fandom.com/wiki/Recipes_Guar)[  
+# Soap bubbles from guar gumi  
   
+## Ingridients for a little over 1 liter:  
+- Water 1l  
+- dishwashing liquid (Jar extra+) 40-65ml (3 tablespoons + 1 teaspoon = 65ml - 1:20)    
+- guar gum 0.5-3g (1.5g = 1/4 teaspoon ~ 0.3ml)  
+- baking powder 2g (1/2 teaspoon - 2.5ml)  
+- slurry (gliceryn/isopropyl alcohol)  
+## Procedure  
+[Video](https://youtu.be/17lx_TzahpE)  
+* Mix guar gum with slurry - use enough slurry to have a disolve all gum and to make it pourable  
+* mix it well with water  
+* add detergent and baking powder  
+* mix gently to prevent foam  
+  
+Guar gum might be hard to get in Slovenia. I bougt it from [online store](https://www.natural-loti.si/izdelek/guar-gumi-prah/) and took the biggest package they had (250g).  
+  
+  
+  
+# Details:  
+## [Recipes Guar | Soap Bubble Wiki | Fandom](https://soapbubble.fandom.com/wiki/Recipes_Guar)  
 ## Ingredients  
   
-These ingredients are common to all of the variations. The amounts make about 1040 ml of bubble juice (a bit more than a quart).  
+The amounts make about 1040 ml of bubble juice (a bit more than a quart).  
   
 Overview:  
 * Water  
 * Guar Gum  
-* [Dishwashing liquid](https://soapbubble.fandom.com/wiki/Detergent) (detergent). **The type of dishwashing liquid is critical** (see below).  
+* [Dishwashing liquid](https://soapbubble.fandom.com/wiki/Detergent) (detergent). **The type of dishwashing liquid is critical** .  
 * (optional but highly recommended) baking powder OR other recommended pH adjuster. See [related article](https://soapbubble.fandom.com/wiki/PH_Adjusters_and_Water_Conditioners)  
 * (optional but recommended) isopropyl/rubbing alcohol or other [slurry](https://soapbubble.fandom.com/wiki/Slurry) liquid (see details below)  
   
 ## Details:  
   
 * **Water**. Generally, tap water is best. Even if you think your tap water is terrible, try it. If it doesn't work, try distilled water with a little bit of tap water added. The minerals in tap water seem to benefit soap films despite what you may read elsewhere. More about water [here](https://soapbubble.fandom.com/wiki/Water).  
-* [**Dishwashing liquid**](https://soapbubble.fandom.com/wiki/Detergent) (detergent). The dishwashing liquid that you use is critical. I generally use [Dawn Professional Manual Pot and Pan](https://soapbubble.fandom.com/wiki/Dawn_Manual_Pot_and_Pan) or the similar Dawn Pro. In the U.S. and Canada, the Dawn line generally seems to be considered the best. Similar detergents from Procter and Gamble are available under different names in much of the world (but not everywhere). See the [Detergent](https://soapbubble.fandom.com/wiki/Detergent) article for recommended detergents.  
+* [**Dishwashing liquid**](https://soapbubble.fandom.com/wiki/Detergent) (detergent). The dishwashing liquid that you use is critical. I generally use [Dawn Professional Manual Pot and Pan](https://soapbubble.fandom.com/wiki/Dawn_Manual_Pot_and_Pan) or the similar Dawn Pro. In the U.S. and Canada, the Dawn line generally seems to be considered the best. Similar detergents from Procter and Gamble are available under different names in much of the world (but not everywhere). See the [Detergent](https://soapbubble.fandom.com/wiki/Detergent) article for recommended detergents. In slovenia Jar extra+ is dawn pro equivalent.  
 * [**Guar gum** (powder)](https://soapbubble.fandom.com/wiki/Ingredients#Guar_Gum). The amount of guar gum will influence the 'feel' of the mix. This recipe is based on guar gum powder that's sold under the Bob's Red Mill label. I have also used Now brand guar gum. And users from around the world have used other brands, too. All with success. A pretty wide range of amounts can be used. The optimal amount may depend both on personal preference and the brand that you use. See more in the [Guar Gum](https://soapbubble.fandom.com/wiki/Guar_Gum) article.  
 *  **(optional) Baking powder** (or other pH Adjuster). Baking powder is slightly acidic (and many brands seem to be slightly buffered) which is beneficial to bubble juice. Other pH adjusters can be used, but baking powder is the place to start as nothing works better and it is almost impossible to overdo. It improves the soap film strength, bubble longevity and the ease with which the bubbles can be made. Baking powder will result in some sediment at the bottom of the container (which is just undissolved corn starch). The sediment has no ill-effect, but some people prefer a sediment free look. If this is the case, you can use one of the other pH adjusters discussed [here](https://soapbubble.fandom.com/wiki/PH_Adjusters_and_Water_Conditioners). You can make the bubble juice without these ingredients, but you will find that they improve the juice significantly.  
 * (optional) **Slurry liquid**: **isopropyl alcohol** (or grain alcohol or glycerine or propylene glycol or mouthwash or even detergent). A slurry liquid makes it easy to mix the guar gum without clumping. Guar gum powder tends to clump when it is added directly to water or if water is added to it. If you mix the guar gum powder with any of the liquids in the preceding list, there will be no clumping. Mixing a powder with a liquid in which it does not dissolve is called making a slurry. Unlike many polymers, guar will slurry well even with standard rubbing alcohol. 50% (or higher) isopropyl is inexpensive and works well. Only a little bit is used. **Update Sept. 2013**: [on SBF](http://groups.yahoo.com/neo/groups/soapbubblefanciers/conversations/topics/16162), it has been reported that mouthwash can be used as a slurry liquid.  

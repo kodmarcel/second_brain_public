@@ -3,6 +3,7 @@ share: true
 tags: public TODO/list  
 ---  
 ## Seven minute workout  
+[workout.mp3](./resources/health/workout.mp3)  
 supposedly scientifically backed HIT workout  
 [journal](https://journals.lww.com/acsm-healthfitness/Fulltext/2013/05000/HIGH_INTENSITY_CIRCUIT_TRAINING_USING_BODY_WEIGHT_.5.aspx)  
 [follow along video](https://www.youtube.com/watch?app=desktop&v=Jru5B044HOs)  
