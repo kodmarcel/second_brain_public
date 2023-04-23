@@ -7,6 +7,11 @@ tag: public
   
 # 3D printing  
   
+  
+## Calibration  
+[First layer](https://www.printables.com/model/251587-stress-free-first-layer-calibration-in-less-than-5)  
+  
+  
 [Hardware mainteniance](https://www.youtube.com/watch?v=SdXT_SR8dC8)  
 Debugging, setting up  
   
