@@ -8,4 +8,4 @@ tag: public
 [SQL tips](./SQL-tips.md)  
 [Git](./Git.md)  
 [Swagger](./Swagger.md)  
-[stable diffusion](./stable%20diffusion.md)
+[stable diffusion](./stable-diffusion.md)
