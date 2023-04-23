@@ -12,5 +12,5 @@ tag: public
 [MTG](./MTG.md)  
 [Fun](Fun.md)  
 [Gift ideas](./Gift-ideas.md)  
-[Funny sketch on effective punichement for kids](./Funny%20sketch%20on%20effective%20punichement%20for%20kids.md)  
+[Funny sketch on effective punichement for kids](./Funny-sketch-on-effective-punichement-for-kids.md)  
 You can draw with whiteboard marker on a aluminum foil then submerge it in hot water and the image will float away.
